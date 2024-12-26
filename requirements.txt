@@ -1,5 +1,7 @@
 streamlit
-crewai
-crewai_tools
+langchain
+langchain-core
+langchain-community
+langgraph
 crewai[tools]
 python-dotenv
