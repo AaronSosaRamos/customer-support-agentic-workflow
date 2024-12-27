@@ -1,9 +1,10 @@
 streamlit
 langchain
 langchain-core
+langchain-openai
 langchain-community
 langchain-qdrant
+fastembed
 pypdf
 langgraph
-crewai[tools]
 python-dotenv
