@@ -1,0 +1,100 @@
+{
+    "file_url": "http://scielo.sld.cu/pdf/rus/v13n6/2218-3620-rus-13-06-123.pdf",
+    "customer_request": "How can I be a good customer in base of the given article?",
+    "lang": "es",
+    "summary_output": {
+        "summary": "Para ser un buen cliente, es fundamental que comprendas la importancia de la experiencia del cliente en las empresas modernas. Esto implica conocer y entender tus propias motivaciones y preferencias, lo que te permitir\u00e1 comunicarte eficazmente con las organizaciones. Adem\u00e1s, al evaluar el valor que recibes en relaci\u00f3n con lo que se te ofrece, puedes ayudar a las empresas a mejorar sus servicios y mantener una relaci\u00f3n cercana y duradera contigo.",
+        "key_points": [
+            {
+                "text": "Conocer y entender tus propias motivaciones y preferencias como cliente.",
+                "importance_score": 0.9
+            },
+            {
+                "text": "Comunicarte eficazmente con las organizaciones sobre tus necesidades.",
+                "importance_score": 0.85
+            },
+            {
+                "text": "Evaluar el valor recibido frente al valor ofrecido por la empresa.",
+                "importance_score": 0.8
+            },
+            {
+                "text": "Fomentar una relaci\u00f3n cercana y de comunicaci\u00f3n continua con las empresas.",
+                "importance_score": 0.75
+            }
+        ],
+        "confidence_score": 0.95,
+        "word_count": 114,
+        "language_used": "es"
+    },
+    "analysis_output": {
+        "sentiment": "positivo",
+        "dominant_theme": "La importancia de ser un buen cliente y c\u00f3mo mejorar la experiencia del cliente",
+        "linguistic_complexity": "moderada",
+        "coverage_score": 0.9,
+        "contradictions_found": false,
+        "keyword_density": [
+            {
+                "keyword": "cliente",
+                "density": 0.15
+            },
+            {
+                "keyword": "comunicar",
+                "density": 0.07
+            },
+            {
+                "keyword": "valores",
+                "density": 0.07
+            },
+            {
+                "keyword": "experiencia",
+                "density": 0.15
+            }
+        ],
+        "factual_accuracy_score": 1.0,
+        "tone_consistency": true,
+        "coherence_score": 0.95,
+        "summary_structure": "tem\u00e1tica",
+        "critical_points_covered": true,
+        "redundant_phrases": []
+    },
+    "suggest_actions_output": {
+        "actions": [
+            {
+                "action": "Fomentar la comunicaci\u00f3n abierta y honesta con la empresa.",
+                "priority": 1,
+                "rationale": "La comunicaci\u00f3n efectiva es clave para una buena relaci\u00f3n entre el cliente y la empresa. Permite resolver problemas r\u00e1pidamente y mejorar la experiencia del cliente.",
+                "estimated_impact": "alto",
+                "feasibility_score": 0.9
+            },
+            {
+                "action": "Conocer y entender los valores de la empresa.",
+                "priority": 2,
+                "rationale": "Al alinearse con los valores de la empresa, los clientes pueden actuar de manera que apoye la misi\u00f3n de la misma, contribuyendo a una mejor experiencia mutua.",
+                "estimated_impact": "alto",
+                "feasibility_score": 0.8
+            },
+            {
+                "action": "Proporcionar retroalimentaci\u00f3n constructiva sobre la experiencia del cliente.",
+                "priority": 3,
+                "rationale": "La retroalimentaci\u00f3n es esencial para que las empresas comprendan c\u00f3mo pueden mejorar. Los clientes que brindan comentarios constructivos ayudan a la empresa a adaptarse y mejorar su servicio.",
+                "estimated_impact": "medio",
+                "feasibility_score": 0.7
+            },
+            {
+                "action": "Ser cort\u00e9s y respetuoso en todas las interacciones.",
+                "priority": 4,
+                "rationale": "El respeto mutuo fomenta un ambiente positivo y puede facilitar la resoluci\u00f3n de problemas y el manejo de conflictos.",
+                "estimated_impact": "medio",
+                "feasibility_score": 0.95
+            },
+            {
+                "action": "Participar en programas de fidelizaci\u00f3n y encuestas de satisfacci\u00f3n.",
+                "priority": 5,
+                "rationale": "Participar en estos programas permite a los clientes ser parte activa del proceso de mejora de la empresa y ser recompensados por su lealtad.",
+                "estimated_impact": "bajo",
+                "feasibility_score": 0.6
+            }
+        ],
+        "next_steps": "Implementar un programa de comunicaci\u00f3n clara con los clientes, educar sobre los valores de la empresa y establecer canales para la retroalimentaci\u00f3n continua."
+    }
+}
